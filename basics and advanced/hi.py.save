@@ -1,0 +1,4 @@
+t print()
+    inp=int(input("enter any number:"))
+    print(inp,id(inp),type(inp))
+    

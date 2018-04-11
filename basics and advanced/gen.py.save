@@ -1,0 +1,11 @@
+def squares(start,stop):
+   for i in range(0, sto):
+        print(i*i,end="")
+Iterator = squares(1,10)
+print(Iterator)
+Iterator1=squares(1,10)
+print(Iterator1)
+i=range(10)
+print(i)
+for l in i:
+    print(l)
